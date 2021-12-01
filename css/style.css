@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(27, 27, 50, 0.8);
+    color:#FFFFFF;
+    background-image: url("~/images/women.jpg");
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+}
+
+input{
+    display:block;
+    margin-bottom:30px;
+  
+}
+input[type=text],[type=number],select,#submit{
+    box-sizing: border-box;
+    font-size: 17px;
+    color:#757575;
+    width:632px;
+    height:38px;
+    padding:10px 20px;
+    border-radius: 7px;
+    border:none;
+}
+
+
+.firstheader{
+   text-align:center;
+   font-family: poppins; 
+}
+
+
+#description{
+    font-style: italic;
+}
+
+
+.top-box{
+    width: 70%;
+    margin:auto;
+   background-color:#1b1b32;
+  
+ 
+}
+
+#survey-form{
+    
+    font-size: 17px;
+    padding-left:125px;
+    padding-top:100px;
+    padding-bottom: 50px;
+}
